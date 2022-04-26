@@ -5,7 +5,7 @@ Application that allows to edit and transform documents to  audio. UOI-Project f
 The target users of the application may be people who have reading problems or visually impaired people.The objective of this project is to develop an application that allows to edit and transform documents to audio. The documents may be in various formats. Specifically the application supports at least Microsoft Word (.docx) and Excel documents (.xlsx). 
 
 # Implementation
-Implemented Gof-Pattern:
+Implemented Gof-Pattern with:
  - Factory
  - Adapter
  - Facade
@@ -13,3 +13,6 @@ Implemented Gof-Pattern:
 
 # Umls
 
+Package: ![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/packages.png)
+
+Input Package: ![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/input_package.png)
