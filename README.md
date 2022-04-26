@@ -14,7 +14,11 @@ Implemented Gof-Pattern with:
 # Umls
 
 Packages:
+
+
 ![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/packages.png)
 
 Input Package:
+
+
 ![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/input_package.png)
