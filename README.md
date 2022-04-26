@@ -15,10 +15,16 @@ Implemented Gof-Pattern with:
 
 Packages:
 
-
 ![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/packages.png)
 
 Input Package:
 
-
 ![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/input_package.png)
+
+Model Package:
+
+![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/model_package.png)
+
+Output Package:
+
+![alt text](https://github.com/Georgemouts/Text_To_Speech_App/blob/main/UMLS/Output_package.png)
